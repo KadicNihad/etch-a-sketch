@@ -1,0 +1,32 @@
+html {
+	background-color: #3da0c7;
+	z-index: -1;
+}
+#root{
+	background-color: #3da0c7;
+}
+div.row {
+	text-align: center;
+}
+#numRows, #numColumns {
+	width: 250px;
+	height: 37px;
+	padding: 7px;
+	border-radius: 7px;
+	border:none
+}
+table tbody tr td {
+	margin-top: 20px;
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+}
+footer {
+	background-color: #3da0c7;
+	bottom: 0%;
+	position: fixed;
+	text-align: center;
+}
+#reset  {
+	background-color:'red';
+}
